@@ -1,4 +1,6 @@
-# Team_1_project_1
+# Team_1_project_1 
+https://docs.google.com/presentation/d/1i8oeLxqOjR5L1TDdeUo7AZf0-wZL35KpolM6sNKgHVY/edit#slide=id.g1f1c2fbe010_0_0
+
 
 We imagined our client as a car dealership owner in India, who is in charge of choosing cars, setting prices, and marketing. Their goal is to increase sales and profit. The customers are people looking for good deals on used cars, considering price, condition, and overall satisfaction.
 
